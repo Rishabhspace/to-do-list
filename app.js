@@ -37,7 +37,7 @@ const item2 = new Item({
   name: "Hit the + button to add Items",
 });
 const item3 = new Item({
-  name: "<-- Hit this to delete an Item from List",
+  name: "<-- Hit this to delete an Item",
 });
 
 const defaultItems = [item1, item2, item3];
